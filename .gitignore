@@ -1,2 +1,5 @@
 # Sandbox file I made to test bits of code
 **/test.c
+
+# The executable the code produces, just in case I get too lazy to delete it
+**/a.out
