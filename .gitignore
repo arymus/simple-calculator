@@ -3,3 +3,6 @@
 
 # The executable the code produces, just in case I get too lazy to delete it
 **/a.out
+
+# Local vscode config folder (I think)
+**/.vscode
